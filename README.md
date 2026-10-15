@@ -27,8 +27,11 @@ Maintained by [CertifyDeck](https://www.certifydeck.com) (practice tests in Span
   - [AI-300 Machine Learning Operations Engineer](#ai-300-machine-learning-operations-engineer)
   - [SC-200 Security Operations Analyst](#sc-200-security-operations-analyst)
   - [AB-650 Microsoft 365 and AI Services Administrator](#ab-650-microsoft-365-and-ai-services-administrator)
+  - [DP-600 Fabric Analytics Engineer](#dp-600-fabric-analytics-engineer)
+  - [DP-700 Fabric Data Engineer](#dp-700-fabric-data-engineer)
 - [Expert](#expert)
   - [AZ-305 Azure Solutions Architect](#az-305-azure-solutions-architect)
+  - [AZ-400 DevOps Engineer](#az-400-devops-engineer)
   - [MS-102 Microsoft 365 Administrator (retiring)](#ms-102-microsoft-365-administrator-retiring)
 - [Retired exams](#retired-exams)
 - [Free tools for any exam](#free-tools-for-any-exam)
@@ -202,6 +205,23 @@ Microsoft 365 Certified: Microsoft 365 and AI Services Administrator Associate. 
 - [AB-650: the exam taking over from MS-102](https://www.certifydeck.com/en/articles/ab-650-ms-102-replacement) - (CertifyDeck) Outline and dates.
 - [AB-650 practice test](https://www.certifydeck.com/en/certifications/ab-650) - (CertifyDeck) Tenant, security, compliance and Copilot administration scenarios.
 
+### DP-600 Fabric Analytics Engineer
+
+Microsoft Certified: Fabric Analytics Engineer Associate. 100 minutes, renews every 12 months, available in Spanish and other languages.
+
+- [Exam page](https://learn.microsoft.com/credentials/certifications/exams/dp-600/) - Official.
+- [Study guide (skills measured)](https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-600) - Official. Maintain a data analytics solution 25-30%, prepare data 45-50%, implement and manage semantic models 25-30%.
+- [Awesome Microsoft Fabric](https://github.com/bhakthan/awesome-microsoft-fabric) - Community. Fabric updates, blogs, videos and certification links, updated weekly.
+- [DP-600 practice test](https://www.certifydeck.com/en/certifications/dp-600) - (CertifyDeck) Lakehouse, warehouse, semantic model and DAX scenarios by domain.
+
+### DP-700 Fabric Data Engineer
+
+Microsoft Certified: Fabric Data Engineer Associate. 100 minutes, renews every 12 months, available in Spanish and other languages.
+
+- [Exam page](https://learn.microsoft.com/credentials/certifications/exams/dp-700/) - Official.
+- [Study guide (skills measured)](https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-700) - Official. Implement and manage an analytics solution 30-35%, ingest and transform data 30-35%, monitor and optimize an analytics solution 30-35%.
+- [DP-700 practice test](https://www.certifydeck.com/en/certifications/dp-700) - (CertifyDeck) Pipelines, Spark, KQL and monitoring scenarios by domain.
+
 ## Expert
 
 ### AZ-305 Azure Solutions Architect
@@ -211,6 +231,15 @@ Microsoft Certified: Azure Solutions Architect Expert. 100 minutes, renews every
 - [Exam page](https://learn.microsoft.com/credentials/certifications/exams/az-305/) - Official.
 - [Study guide (skills measured)](https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-305) - Official. Identity, governance and monitoring 25-30%, data storage 20-25%, business continuity 15-20%, infrastructure 30-35%.
 - [AZ-305 practice test](https://www.certifydeck.com/en/certifications/az-305) - (CertifyDeck) Design-decision scenarios by domain and timed mock exam.
+
+### AZ-400 DevOps Engineer
+
+Microsoft Certified: DevOps Engineer Expert. 100 minutes, renews every 12 months, available in Spanish and other languages. Requires the Azure Administrator Associate certification (AZ-104) now that AZ-204 is retired.
+
+- [Certification page](https://learn.microsoft.com/credentials/certifications/devops-engineer/) - Official. Prerequisites and renewal.
+- [Exam page](https://learn.microsoft.com/credentials/certifications/exams/az-400/) - Official.
+- [Study guide (skills measured)](https://learn.microsoft.com/credentials/certifications/resources/study-guides/az-400) - Official. Processes and communications 10-15%, source control 10-15%, build and release pipelines 50-55%, security and compliance 10-15%, instrumentation 5-10%.
+- [AZ-400 practice test](https://www.certifydeck.com/en/certifications/az-400) - (CertifyDeck) Azure Pipelines, GitHub Actions, IaC and monitoring scenarios by domain.
 
 ### MS-102 Microsoft 365 Administrator (retiring)
 
